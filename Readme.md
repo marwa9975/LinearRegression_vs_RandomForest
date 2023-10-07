@@ -1,9 +1,9 @@
 # linear regression VS random forest regression
-QUESTION? Let’s say we want to build a model to predict booking prices on Airbnb. Between linear regression and random forest regression, which model would perform better and why?  
+QUESTION? Let’s say we want to build a model to predict booking prices on Airbnb. Between linear regression and random forest regression, which model would perform better, and why?
 
-The choice between linear regression and random forest regression for predicting booking prices on Airbnb (or any other prediction task) depends on several factors, including the characteristics of your dataset and the goals of your prediction model. Let's discuss the strengths and weaknesses of each model to help you decide which one might perform better:
+The choice between linear regression and random forest regression for predicting booking prices on Airbnb depends on several factors, including the characteristics of the dataset and the goals of the prediction model. Let's discuss the strengths and weaknesses of each model to help decide which one might perform better:
 
-- **Linear Regression**:   
+- **Linear Regression**:
 
 **Strengths**:   
 
