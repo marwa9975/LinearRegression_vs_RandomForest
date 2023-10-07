@@ -32,7 +32,7 @@ Interpretability: You can easily interpret the coefficients of the features to u
 - Overfitting: If not properly tuned, random forests can overfit the training data. 
 
  
-The choice between these two models should be based on the characteristics of your Airbnb booking price prediction problem:  
+The choice between these two models should be based on the characteristics of THE Airbnb booking price prediction problem:  
 
 - If the relationship between the input features and booking prices is relatively simple and linear, and you value interpretability, linear regression may be a good choice.
 
@@ -41,4 +41,4 @@ The choice between these two models should be based on the characteristics of yo
 - You could also consider using both models and comparing their performance through cross-validation or other evaluation metrics to determine which one works better for your specific dataset.   
 
 
-Ultimately, the performance of each model will depend on the nature of your data and the specific requirements of your prediction task. It's often a good practice to experiment with different algorithms and evaluate their performance before making a final decision.
+Ultimately, the performance of each model will depend on the nature of the data and the specific requirements of your prediction task. It's often a good practice to experiment with different algorithms and evaluate their performance before making a final decision.
