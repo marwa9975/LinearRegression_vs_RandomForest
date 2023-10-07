@@ -3,7 +3,7 @@ QUESTION? Let’s say we want to build a model to predict booking prices on Airb
 
 The choice between linear regression and random forest regression for predicting booking prices on Airbnb depends on several factors, including the characteristics of the dataset and the goals of the prediction model. Let's discuss the strengths and weaknesses of each model to help decide which one might perform better:
 
-- **Linear Regression**:
+1. **Linear Regression**:
 
 **Strengths**:   
 
@@ -18,7 +18,7 @@ Interpretability: You can easily interpret the coefficients of the features to u
 -  Limited Complexity: Linear regression cannot capture complex, non-linear relationships in the data.
 - Sensitivity to Outliers: Linear regression can be sensitive to outliers in the data.   
 
-- **Random Forest Regression**:
+2. **Random Forest Regression**:
 
 **Strengths**:   
 
